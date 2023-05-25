@@ -12,7 +12,7 @@ npm install
 ````
 to get the node-modules for the client.
 
-##Server dependencies
+## Server dependencies
 Move into the server directory and open a command prompt and run the command:
 
 ```
