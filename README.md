@@ -5,7 +5,7 @@ A take home task for Connex One
 # Installation 
 
 ## Client dependencies
-Once you have cloned the repository, move into the repo direction and open a command prompt and run the command:
+Once you have cloned the repository, move into the repository and open a command prompt and run the command:
 
 ```
 npm install
